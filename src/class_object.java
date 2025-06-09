@@ -9,7 +9,7 @@ class Student{
 public class class_object {
     public static void main(String[] args) {
         Student obj=new Student();
-        Student obj=new Student();
+        Student obj1=new Student();
         obj.sum(5,2);
     }
 }
