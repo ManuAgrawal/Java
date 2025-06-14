@@ -1,7 +1,7 @@
 //Q4. Convert a list of words to their lengths.
 //Input: ["Java", "Stream", "API"]
 //Output: [4, 6, 3]
-//Hint: Use map().
+//Hint: Use map
 
 
 import java.util.*;
