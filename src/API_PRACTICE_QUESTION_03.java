@@ -5,7 +5,7 @@
 
 import java.util.*;
 import java.util.stream.Collector;
-public class ASP_PRACTICE_QUESTION_03 {
+public class API_PRACTICE_QUESTION_03 {
     public static void main(String[] args) {
         List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5);
         int sum = 0;
@@ -13,8 +13,9 @@ public class ASP_PRACTICE_QUESTION_03 {
             if (number % 2 != 0) {
                 sum += number;
             }
-        }
-        System.out.println(sum);
 
+            System.out.println(sum);
+
+        }
     }
 }

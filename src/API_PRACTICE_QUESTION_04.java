@@ -5,7 +5,7 @@
 
 
 import java.util.*;
-public class ASP_PRACTICE_QUESTION_04 {
+public class API_PRACTICE_QUESTION_04 {
     public static void main(String[] args) {
         List<String> words = Arrays.asList("Java", "Stream", "API");
         List<Integer> lengths = new ArrayList<>();

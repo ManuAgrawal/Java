@@ -4,7 +4,7 @@ Output: ["SHYAM", "SITA"]
 Hint: Use filter() and map().*/
 import java.util.*;
 import java.util.stream.Collectors;
-public class ASP_PRACTICE_QUESTON_02 {
+public class API_PRACTICE_QUESTON_02 {
     public static void main(String[] args) {
         List<String> names = Arrays.asList("Ram", "Shyam", "Om", "Sita");
         List<String> result = names.stream()

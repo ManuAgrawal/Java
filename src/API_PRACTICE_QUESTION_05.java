@@ -1,5 +1,5 @@
 import java.util.*;
-public class ASP_PRACTICE_QUESTION_05 {
+public class API_PRACTICE_QUESTION_05 {
     public static void main(String[] args) {
         List<Integer> prices = Arrays.asList(999, 1000, 1500, 1000, 2000);
         Set<Integer> uniquePrices = new HashSet<>(prices);
